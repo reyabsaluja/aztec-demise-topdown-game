@@ -2,7 +2,7 @@
 
 _A 2D top-down adventure game by Reyab Saluja_
 
-![Title Screen](Images/other/title_screen.png)
+<img width="906" alt="Screenshot 2025-06-08 at 3 28 26 PM" src="https://github.com/user-attachments/assets/2e44c24b-1d53-404d-86c5-4df69bb75c69" />
 
 ## Overview
 
@@ -36,14 +36,6 @@ _A 2D top-down adventure game by Reyab Saluja_
 4. **Collect Items:** Find and collect keys and items from chests to unlock new areas.
 5. **Progress:** Solve puzzles and explore all areas to collect the three main keys.
 6. **Win:** Once all keys are collected, complete the final challenge to save the village!
-
-## Screenshots
-
-_Title Screen:_
-![Title Screen](Images/other/title_screen.png)
-
-_Victory Screen:_
-![Victory Screen](Images/other/winscreen.png)
 
 ## Project Structure
 
