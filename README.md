@@ -2,7 +2,8 @@
 
 _A 2D top-down adventure game by Reyab Saluja_
 
-<img width="906" alt="Screenshot 2025-06-08 at 3 28 26 PM" src="https://github.com/user-attachments/assets/2e44c24b-1d53-404d-86c5-4df69bb75c69" />
+<img width="906" alt="Screenshot 2025-06-08 at 3 28 26 PM" src="https://github.com/user-attachments/assets/3a2a749e-5d82-4e64-bc51-8f3ba9014324" />
+
 
 ## Overview
 
